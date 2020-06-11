@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500">
   <foreignObject width="500" height="500">
-    <body>
+    <body xmlns="http://www.w3.org/1999/xhtml">
       <p>Daily Chance to win $ 500 Million</p>
       <p>Rewards so far: $ 50 Million</p>
       <p>Next draw is at 15:00 TCT</p>
