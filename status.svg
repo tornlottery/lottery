@@ -17,7 +17,11 @@
       }
 
       table {
-        width: 100%;
+        width: 250px;
+      }
+  
+      td:nth-child(2) {
+        text-align: right;
       }
   
       thead td {
@@ -39,7 +43,7 @@
       <h1>Daily Chance to win <span class="red">$ 500 Million</span></h1>
       <h2>Next draw is at <span class="red">15:00 TCT</span></h2>
       <h2>Participants today:</h2>
-      <table>
+      <table cellspacing="0">
         <thead>
           <tr>
             <td>Player</td>
