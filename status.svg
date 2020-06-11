@@ -1,10 +1,32 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500">
   <foreignObject width="500" height="500">
     <body xmlns="http://www.w3.org/1999/xhtml">
-      <p>Daily Chance to win $ 500 Million</p>
-      <p>Rewards so far: $ 50 Million</p>
-      <p>Next draw is at 15:00 TCT</p>
-      <p>Participants:</p>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+
+      h1, h2 {
+        font-weight: bold;
+        font-size: 25px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      table {
+        width: 100%;
+      }
+
+      .red {
+        color: #cc0000;
+      }
+      </style>
+      <h1>Daily Chance to win <span class="red">$ 500 Million</span></h1>
+      <h2>Next draw is at <span class="red">15:00 TCT</span></h2>
+      <h2>Participants today:</h2>
       <table>
         <thead>
           <tr>
