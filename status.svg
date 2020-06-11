@@ -19,6 +19,18 @@
       table {
         width: 100%;
       }
+  
+      thead td {
+        font-weight: bold;
+        border-bottom: 1px solid black;
+      }
+  
+      tbody:before {
+        content: "@";
+        display: block;
+        line-height: 10px;
+        text-indent: -99999px;
+      }
 
       .red {
         color: #cc0000;
@@ -35,6 +47,42 @@
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
           <tr>
             <td>finally</td>
             <td>1234</td>
