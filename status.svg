@@ -1,0 +1,24 @@
+<svg width="" height="">
+  <foreignObject width="" height="">
+    <body>
+      <p>Daily Chance to win $ 500 Million</p>
+      <p>Rewards so far: $ 50 Million</p>
+      <p>Next draw is at 15:00 TCT</p>
+      <p>Participants:</p>
+      <table>
+        <thead>
+          <tr>
+            <td>Player</td>
+            <td>Guess</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>finally</td>
+            <td>1234</td>
+          </tr>
+        </tbody>
+      </table>
+    </body>
+  </foreignObject>
+</svg>
