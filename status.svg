@@ -48,19 +48,4 @@
         color: #cc0000;
       }
       </style>
-      <h1>Daily Chance to win <span class="red">$ 500 Million</span></h1>
-      <h2>Next draw is at <span class="red">15:00 TCT</span></h2>
-      <h2>Participants today:</h2>
-      <table cellspacing="0">
-        <thead>
-          <tr>
-            <td>Player</td>
-            <td>Guess</td>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </body>
-  </foreignObject>
-</svg>
+      <h1>Daily Chance to win <span class="red"
