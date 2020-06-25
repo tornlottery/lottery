@@ -59,7 +59,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr style="">
+          <tr style="font-weight: bold;color: #ffcc99">
             <td>Felyx</td>
             <td>1231</td>
           </tr>
