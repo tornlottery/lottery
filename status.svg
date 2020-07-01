@@ -1,6 +1,6 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="195">
-  <foreignObject x="0" y="0" width="400" height="195">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="175">
+  <foreignObject x="0" y="0" width="400" height="175">
     <body xmlns="http://www.w3.org/1999/xhtml">
     <style>
       body {
@@ -59,10 +59,6 @@
           </tr>
         </thead>
         <tbody>
-          <tr style="">
-            <td>Felyx</td>
-            <td>8495</td>
-          </tr>
         </tbody>
       </table>
     </body>
